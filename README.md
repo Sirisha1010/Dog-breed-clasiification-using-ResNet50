@@ -1,1 +1,1 @@
-# Dog-breed-clasiification-using-ResNet50
+# Dog-breed-classification-using-ResNet50
